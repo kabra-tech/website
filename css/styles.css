@@ -4549,31 +4549,31 @@ html.no-csstransitions .s-hero__content {
 
 .service-icon {
     display: block;
-    width: calc(2.25 * var(--space));
-    height: calc(2.25 * var(--space));
+    width: calc(4.25 * var(--space));
+    height: calc(4.25 * var(--space));
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
 }
 
 .service-icon--product-design {
-    background-image: url(../images/icons/services/icon-product-design.svg);
+    background-image: url(../images/icons/seguridad-ciclo-desarrollo.png);
 }
 
 .service-icon--branding {
-    background-image: url(../images/icons/services/icon-branding.svg);
+    background-image: url(../images/icons/devops.png);
 }
 
 .service-icon--frontend {
-    background-image: url(../images/icons/services/icon-frontend.svg);
+    background-image: url(../images/icons/cloud.png);
 }
 
 .service-icon--research {
-    background-image: url(../images/icons/services/icon-research.svg);
+    background-image: url(../images/icons/observabilidad.png);
 }
 
 .service-icon--illustration {
-    background-image: url(../images/icons/services/icon-illustration.svg);
+    background-image: url(../images/icons/testing-calidad-codigop.png);
 }
 
 .service-icon--ecommerce {
